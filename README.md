@@ -8,7 +8,7 @@ This repository contains three academic documents exploring key topics in medica
 - **SabinaKu_MSc_MedVis_Anatomy_Dissertation_Aug2016.pdf**  
   MSc dissertation titled *Virtual Reality Interactive Games in Stroke Rehabilitation – a Pilot Study*, including a review of stroke recovery and VR-based interventions.
 
-- **SabinaKu_Epilepsy_review_27Oct2020.pdf**  
+- **SabinaKu_Epilepsy_Review_27Oct2020.pdf**  
   Review of epilepsy treatment, EEG diagnostics, and the potential of machine learning in seizure prediction and drug response.
 
 ---
@@ -24,7 +24,7 @@ This essay examines the historical and contemporary role of cadaver dissection i
 **Topic:** Stroke Rehabilitation (Chapter 2)  
 This MSc dissertation includes a literature review on stroke rehabilitation principles and recovery mechanisms. It highlights limitations of conventional therapy and explores the potential of virtual reality (VR) as a novel intervention. The study also presents the development of a Leap Motion Controller (LMC)-based system for upper limb rehabilitation, showcasing the promise of gamified VR in clinical settings.
 
-### 3. **SabinaKu_Epilepsy_review_27Oct2020.pdf**
+### 3. **SabinaKu_Epilepsy_Review_27Oct2020.pdf**
 **Topic:** Epilepsy Management  
 This review discusses current treatment strategies, cost implications, and challenges in managing epilepsy. It emphasizes the role of EEG in diagnosis and monitoring, and explores how machine learning could enhance epilepsy care—particularly in predicting seizure recurrence and patient response to anti-epileptic drugs (AEDs).
 
